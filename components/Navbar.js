@@ -7,7 +7,7 @@ const Navbar = () => {
             <a href="https://kach0w.com">Home</a>
             <a href="https://kach0w.com/about">About</a>
             <div className=''>
-                Projects dfd <i class="fa fa-caret-down"></i>
+                Projects sf <i class="fa fa-caret-down"></i>
             </div>
             <a href="https://kach0w.com/blog">Blog</a>
 

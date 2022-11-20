@@ -8,7 +8,7 @@ export default function Home() {
       <Head>
         <title>kach0w</title>
         <meta name="description" content="kach0w's website"></meta>
-        <link rel="icon" href="../assets/rusteze.png" type="image/png"/> 
+        <link rel="icon" href={`${process.envc.FAVICON}/rusteze-favicon.png`} type="image/png"/> 
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
         <style>

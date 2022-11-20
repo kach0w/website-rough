@@ -9,7 +9,7 @@ const Main = () => {
         <h1 className='font-serif font-bold text-[7em] text-[#15171a] leading-none'>kach0w</h1>
       </div>
       <div className='flex my-[vh] justify-center text-center'>
-        <Image className='w-[30vw]' src="../assets/rusteze.png" alt="img"/>
+        <Image className='w-[30vw]' src={rusteze} alt="img"/>
       </div>
       <div className='flex text-center justify-center'>
         <div className='text-[1.8rem] font-bold text-[#000000]'>
